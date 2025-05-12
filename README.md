@@ -1,4 +1,7 @@
-![39488a22-10b5-4b4c-b731-e9ddc1336d90](https://github.com/user-attachments/assets/599d1522-1a24-4edf-9dc1-8b7a51bef6b1)# DEPI
+![39488a22-10b5-4b4c-b731-e9ddc1336d90](https://github.com/user-attachments/assets/599d1522-1a24-4edf-9dc1-8b7a51bef6b1)
+
+# DEPI
+https://universe.roboflow.com/project-uyrxf/ppe_detection-v1x3l/dataset/1
 
 # The PPE_Detection dataset 
 is a valuable resource for developing computer vision models to enhance workplace safety through PPE detection. With 3,290 images and seven assumed classes (helmet, safety vest, gloves, safety shoes, face mask, goggles, earplugs), it supports applications like real-time monitoring, compliance auditing, and safety training. Its accessibility on Roboflow Universe, multiple download formats, and pre-trained model make it user-friendly for researchers and developers. However, the lack of explicit class names and annotation details poses challenges, requiring users to verify these through annotation files or direct inquiry with the creator.
